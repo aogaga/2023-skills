@@ -1,0 +1,69 @@
+JavaScript / TypeScript
+Python
+SQL
+Rust
+Go
+
+
+Avoid 
+C++
+Java 
+
+
+Honorable Mention 
+Kotlin 
+C#
+
+📚  Recommended Books
+
+DATA STRUCTURES & ALGORITHMS
+
+Grokking Algorithms (Beginner) - https://amzn.to/2JcBrjS
+Data Structures and Algorithms in Python (Beginner) - https://amzn.to/3GzAuKS
+Data Structures and Algorithms Made Easy (Intermediate) - https://amzn.to/3EKPxk2
+Introduction to Algorithms (Advanced) - https://amzn.to/2V03JRb
+Algorithms 4th Edition (Advanced) - https://amzn.to/3dDAH2Z
+Algorithm Design Manual (Advanced) - https://amzn.to/3GzBj6q
+
+SOFTWARE ENGINEERING
+
+Clean Code - https://amzn.to/3nHNtAC
+Clean Architecture - https://amzn.to/3kZ7UqR
+Refactoring - https://amzn.to/377VXdM
+The Productive Programmer - https://amzn.to/33aMeSE
+Pragmatic Thinking & Learning - https://amzn.to/2J5IfzM
+
+SYSTEM DESIGN & ARCHITECTURE
+
+Understanding Distributed Systems (Beginner) - https://amzn.to/3cjChr5
+Building Microservices (Beginner) - https://amzn.to/2UUPsFi
+Designing Data Intensive Applications (Advanced) - https://amzn.to/3fxgOLm
+Software Architecture: The Hard Parts (All levels) - https://amzn.to/3XTHQ4g
+
+ENGINEERING MANAGEMENT
+
+Engineering Management for the Rest of Us - https://amzn.to/3JanteZ
+
+🏷 DISCOUNT CODES
+
+10% off Educative.io for Excellent courses on all things Software Engineering
+https://educative.io/engineeringwithu...
+
+🏪  AMAZON STOREFRONT
+https://www.amazon.com/shop/engineeri...
+All my recommendations for books, gadgets and gear are also available at my
+Amazon storefront. Check it out!
+
+👕  LIKE THE "GOOD COFFEE, GREAT CODE" HOODIE?
+You can purchase one here: https://www.engineeringwithutsav.com/...
+
+📧  REACH OUT TO ME ON SOCIAL MEDIA
+Instagram: https://www.instagram.com/engineering...
+Instagram: https://www.instagram.com/utsavized (personal)
+Web: https://www.engineeringwithutsav.com
+
+💻 GEAR I USE
+
+Keychron K2 Mechanical Keyboard - https://amzn.to/3QYMdJh
+Logitech MX Master 3 Mouse - https://amzn.to/3iWUyjW
+BenQ PD3220U 32 Inch 4K IPS AQCOLOR Monitor - https://amzn.to/3D6lzsg
